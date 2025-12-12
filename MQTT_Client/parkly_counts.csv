@@ -1,0 +1,7 @@
+timestamp,spot,event_type,total_count
+2025-12-12 02:42:53,B,occupied,1
+2025-12-12 02:43:26,A,occupied,1
+2025-12-12 02:43:40,B,occupied,2
+2025-12-12 02:44:21,A,occupied,2
+2025-12-12 02:44:40,A,occupied,3
+2025-12-12 03:04:20,A,occupied,4
